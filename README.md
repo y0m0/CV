@@ -1,7 +1,9 @@
-# CV
+
 ## Daniele Lixi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+former IT Manager for a Norwegian based firm, moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and looking for a Full Stack Junior Developer role. When describing my self I like to use the latin word "omnia" which translate to "everything". I'am that guy that you know you can contact if you need anything fixed or built. My insatiable curiosity to know how things works couple with fast learning skills as always led me to embark in new and exciting challenges.
+Like starting an hardware recycling company in collaboration with my hometown Turin, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, building stages for concerts around Europe, my motto was always "if a human did that I can do it too". And then 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding and I continued my journey by completing severals MOOC in computer science, and finally decided to put my everything into becoming a Full Stack Developer.
+
 
 ## Skills
 
@@ -24,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2017 - July 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -33,11 +35,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Edx - MITx: 6.00.1x (January 2015 - March 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Python
+- Introduction to Computer Science and Programming
+- OOP, algorithm complexity analisys
+- Graded with 98 / 100
+
+#### Edx - CS50 (February 2016 - on going )
+ - C, Python, SQL, and JavaScript plus CSS and HTML
+ - built a working breakout game with SPL
+
+#### ITIS C.Grassi - Expert in Aircraft Constructions
+  Aircraft engineering
 
 #### Any other qualifications
 

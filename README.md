@@ -1,16 +1,19 @@
 
 ## Daniele Lixi
 
-former IT Manager for a Norwegian based firm, moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and looking for a Full Stack Junior Developer role.
+Former IT Manager for a Norwegian based firm, I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and looking for a Full Stack Junior Developer role.
 
+## About
 When describing my self I like to use the latin word "omnia" which translates to "everything".
-I'am that guy that you know you can contact if you need anything fixed or built.
+I am that guy that you know you can contact if you need anything fixed or built.
 
 My insatiable curiosity to know how things work coupled with fast learning skills always led me to embark in new and exciting challenges.
-Starting an hardware recycling company, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, building stages for concerts around Europe.
-My motto was always "if a human did that, I can do it too".
+Starting an hardware recycling company, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, and building stages for concerts around Europe.
+My motto was always "if a human being did that, I can do it too".
 
-And then 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding and I continued my journey by completing severals MOOC in computer science, and finally decided to put my everything into becoming a Full Stack Developer.
+And then, 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding.
+
+I continued my journey by completing severals MOOC in computer science, and finally decided to put my "everything" into becoming a Full Stack Developer.
 
 
 ## Skills
@@ -44,41 +47,65 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha
 
 #### Edx - MITx: 6.00.1x (January 2015 - March 2015)
-
 - Python
 - Introduction to Computer Science and Programming
 - OOP, algorithm complexity analysis
 - Graded with 98 / 100
 
-#### Edx - CS50 (February 2016 - on going)
+#### Edx - CS50 (February 2016)
  - C++, Python, SQL, and JavaScript plus CSS and HTML
  - built a working breakout game with SPL
 
 #### ITIS C.Grassi - Expert in Aircraft Constructions
-  - Aircraft engineering, CAD design
+  - Aircraft engineering
+  - Mechanics
+  - CAD design
 
 #### Any other qualifications
   - Cisco ICND1 & ICND2
 
 ## Experience
 
-**Villa Import AS** (October 2013 - on going)    
-*IT Manager*
+**IT Manager, Villa Import** *Oslo, Norway*  
+*October 2013 - On going*
+ERP & CRM system manager
+Logistic & HACCP system supervision
+Network and Devices management
+Customer relations and sales
 
-**Dolce Vita AS** (April 2012 - September 2013)
-*Barista*
+**Web Developer, Treasure Toscana** *Oslo, Norway*
+*2015*
 
-**Optimal Print AS** (February 2012 to May 2012)
-*Quality Control*
+**Barista, Dolce Vita** *Oslo, Norway*  
+*April 2012 - September 2013*
 
-**Web Runner** (2011)
-*System Administrator / Instructor*
+**Quality Control, Optimal Print** *Oslo, Norway*  
+*February 2012 - May 2012*
 
-**One Click srl** (2007 - 2011)
-*On site IT Technician*
+**System Administrator, Web Runner** *Turin, Italy*  
+*2011*  
+Sys Admin and Instructor for a open source based internet point part of a town founded project, aiming to give access to technology for citizens that can't afford it
 
-**Show Building srl** (2004 - 2007)
-*Rigger / Scaffolder*
+**On site IT Technician, One Click** *Turin, Italy*  
+*2007 - 2011*   
+On site support for several international companies like HP Italy, ENI, Wincor Nixdorf, etc.  
+Hardware & software support and repair  
+Installation, configuration and maintenance of networking solutions (cisco, juniper)
+
+**Co-Founder, Infratronic** *Turin, Italy*
+*2010*
+Hardware refurbishing E-Commerce in collaboration with the city electronic recycling site
+
+**Rigger / Scaffolder, Show Building** *Europe*   
+*2004 - 2007*  
+Installation of sound and lighting solutions  
+Building of temporary structures for concerts and big events
+
+## Interests
+ - Building, Fixing, and breaking things
+ - Network Security
+ - Martial Arts
+ - Skateboarding
 
 ## Languages
  - Italian

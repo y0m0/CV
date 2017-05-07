@@ -68,14 +68,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **IT Manager, Villa Import** *Oslo, Norway*  
 *October 2013 - On going*  
-ERP & CRM system manager  
-Logistic & HACCP system supervision  
-Network and Devices management  
-Customer relations and sales
+- ERP & CRM system manager  
+- Logistic & HACCP system supervision  
+- Network and Devices management  
+- Customer relations and sales
 
 **Web Developer, Treasure Toscana** *Oslo, Norway*  
 *2015*  
-PHP, HTML, CSS, Javascript
+- PHP, HTML, CSS, Javascript
 
 **Barista, Dolce Vita** *Oslo, Norway*  
 *April 2012 - September 2013*
@@ -85,22 +85,23 @@ PHP, HTML, CSS, Javascript
 
 **System Administrator, Web Runner** *Turin, Italy*  
 *2011*  
-Sys Admin and Instructor for an open source based internet point part of a town founded project, aiming to give access to technology for citizens that can't afford it
+- Sys Admin and Instructor for open source based internet point
+- Aiming to give access to technology for citizens that can't afford it
 
 **On site IT Technician, One Click** *Turin, Italy*  
 *2007 - 2011*   
-On site support for several international companies like HP Italy, ENI, Wincor Nixdorf, etc.  
-Hardware & software support and repair  
-Installation, configuration and maintenance of networking solutions (cisco, juniper)
+- On site support for several international companies like HP Italy, ENI, Wincor Nixdorf, etc.  
+- Hardware & software support and repair  
+- Installation, configuration and maintenance of networking solutions (cisco, juniper)
 
 **Co-Founder, Infratronic** *Turin, Italy*  
 *2010*  
-Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
+- Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
 
 **Rigger / Scaffolder, Show Building** *Europe*   
 *2004 - 2007*  
-Installation of sound and lighting solutions  
-Building of temporary structures for concerts and big events
+- Installation of sound and lighting solutions  
+- Building of temporary structures for concerts and big events
 
 ## Interests
  - Building, Fixing, and breaking things

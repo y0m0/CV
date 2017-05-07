@@ -1,8 +1,16 @@
 
 ## Daniele Lixi
 
-former IT Manager for a Norwegian based firm, moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and looking for a Full Stack Junior Developer role. When describing my self I like to use the latin word "omnia" which translate to "everything". I'am that guy that you know you can contact if you need anything fixed or built. My insatiable curiosity to know how things works couple with fast learning skills as always led me to embark in new and exciting challenges.
-Like starting an hardware recycling company in collaboration with my hometown Turin, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, building stages for concerts around Europe, my motto was always "if a human did that I can do it too". And then 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding and I continued my journey by completing severals MOOC in computer science, and finally decided to put my everything into becoming a Full Stack Developer.
+former IT Manager for a Norwegian based firm, moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and looking for a Full Stack Junior Developer role.
+
+When describing my self I like to use the latin word "omnia" which translates to "everything".
+I'am that guy that you know you can contact if you need anything fixed or built.
+
+My insatiable curiosity to know how things work coupled with fast learning skills always led me to embark in new and exciting challenges.
+Starting an hardware recycling company, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, building stages for concerts around Europe.
+My motto was always "if a human did that, I can do it too".
+
+And then 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding and I continued my journey by completing severals MOOC in computer science, and finally decided to put my everything into becoming a Full Stack Developer.
 
 
 ## Skills
@@ -39,21 +47,40 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Python
 - Introduction to Computer Science and Programming
-- OOP, algorithm complexity analisys
+- OOP, algorithm complexity analysis
 - Graded with 98 / 100
 
-#### Edx - CS50 (February 2016 - on going )
- - C, Python, SQL, and JavaScript plus CSS and HTML
+#### Edx - CS50 (February 2016 - on going)
+ - C++, Python, SQL, and JavaScript plus CSS and HTML
  - built a working breakout game with SPL
 
 #### ITIS C.Grassi - Expert in Aircraft Constructions
-  Aircraft engineering
+  - Aircraft engineering, CAD design
 
 #### Any other qualifications
+  - Cisco ICND1 & ICND2
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Villa Import AS** (October 2013 - on going)    
+*IT Manager*
+
+**Dolce Vita AS** (April 2012 - September 2013)
+*Barista*
+
+**Optimal Print AS** (February 2012 to May 2012)
+*Quality Control*
+
+**Web Runner** (2011)
+*System Administrator / Instructor*
+
+**One Click srl** (2007 - 2011)
+*On site IT Technician*
+
+**Show Building srl** (2004 - 2007)
+*Rigger / Scaffolder*
+
+## Languages
+ - Italian
+ - English
+ - Norwegian

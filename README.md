@@ -93,7 +93,7 @@ On site support for several international companies like HP Italy, ENI, Wincor N
 Hardware & software support and repair  
 Installation, configuration and maintenance of networking solutions (cisco, juniper)
 
-**Co-Founder, Infratronic** *Turin, Italy*
+**Co-Founder, Infratronic** *Turin, Italy*  
 *2010*  
 Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
 

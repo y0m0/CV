@@ -74,7 +74,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Customer relations and sales
 
 **Web Developer, Treasure Toscana** *Oslo, Norway*  
-*2015*  
+*March 2015 - September 2015*  
 - PHP, HTML, CSS, Javascript
 
 **Barista, Dolce Vita** *Oslo, Norway*  
@@ -84,7 +84,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *February 2012 - May 2012*
 
 **System Administrator, Web Runner** *Turin, Italy*  
-*2011*  
+*December 2010 - August 2011*  
 - Sys Admin and Instructor for open source based internet point
 - Aiming to give access to technology for citizens that can't afford it
 

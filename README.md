@@ -67,10 +67,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **IT Manager, Villa Import** *Oslo, Norway*  
-*October 2013 - On going*
-ERP & CRM system manager
-Logistic & HACCP system supervision
-Network and Devices management
+*October 2013 - On going*  
+ERP & CRM system manager  
+Logistic & HACCP system supervision  
+Network and Devices management  
 Customer relations and sales
 
 **Web Developer, Treasure Toscana** *Oslo, Norway*
@@ -93,8 +93,8 @@ Hardware & software support and repair
 Installation, configuration and maintenance of networking solutions (cisco, juniper)
 
 **Co-Founder, Infratronic** *Turin, Italy*
-*2010*
-Hardware refurbishing E-Commerce in collaboration with the city electronic recycling site
+*2010*  
+Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
 
 **Rigger / Scaffolder, Show Building** *Europe*   
 *2004 - 2007*  

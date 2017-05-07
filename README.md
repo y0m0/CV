@@ -46,15 +46,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+#### Edx - CS50 (February 2016)
+ - C++, Python, SQL, and JavaScript plus CSS and HTML
+ - built a working breakout game with SPL
+
 #### Edx - MITx: 6.00.1x (January 2015 - March 2015)
 - Python
 - Introduction to Computer Science and Programming
 - OOP, algorithm complexity analysis
-- Graded with 98 / 100
-
-#### Edx - CS50 (February 2016)
- - C++, Python, SQL, and JavaScript plus CSS and HTML
- - built a working breakout game with SPL
+- Grade: 98 / 100
 
 #### ITIS C.Grassi - Expert in Aircraft Constructions
   - Aircraft engineering
@@ -73,8 +73,9 @@ Logistic & HACCP system supervision
 Network and Devices management  
 Customer relations and sales
 
-**Web Developer, Treasure Toscana** *Oslo, Norway*
-*2015*
+**Web Developer, Treasure Toscana** *Oslo, Norway*  
+*2015*  
+PHP, HTML, CSS, Javascript
 
 **Barista, Dolce Vita** *Oslo, Norway*  
 *April 2012 - September 2013*
@@ -84,7 +85,7 @@ Customer relations and sales
 
 **System Administrator, Web Runner** *Turin, Italy*  
 *2011*  
-Sys Admin and Instructor for a open source based internet point part of a town founded project, aiming to give access to technology for citizens that can't afford it
+Sys Admin and Instructor for an open source based internet point part of a town founded project, aiming to give access to technology for citizens that can't afford it
 
 **On site IT Technician, One Click** *Turin, Italy*  
 *2007 - 2011*   

@@ -1,48 +1,39 @@
 ## Daniele Lixi
 
-[About](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#)
 
 Former IT Manager for a Norwegian based firm, I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and now looking for a Full Stack Developer role.
 
 ## About
-When describing my self I like to use the latin word "omnia" which translates to "everything".
+When describing my self I like to use the latin word "Omnia" which translates to "everything".
 I am that guy that you know you can contact if you need anything fixed or built.
 
 My insatiable curiosity to know how things work coupled with fast learning skills always led me to embark in new and exciting challenges.
-Starting an hardware recycling company, becoming an onsite hardware Tech responsible for several international companies, studying aircrafts engineering, and building stages for concerts around Europe.
+Starting an hardware recycling company, becoming an on-site hardware Tech responsible for several international companies, studying aircraft engineering, and building stages for concerts around Europe.
 My motto was always "if a human being did that, I can do it too".
 
 And then, 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding.
 
-I continued my journey by completing severals MOOC in computer science, and finally decided to put my "everything" into becoming a Full Stack Developer.
+I continued my journey by completing several MOOC in computer science, and finally decided to put my "everything" into becoming a Full Stack Developer.
+## Projects
 
-## Skills
+For a complete list, see my [GitHub](https://github.com/y0m0?tab=repositories).
 
-#### This Skill
+| Project           | Description | Technologies |
+|---                |---          |---           |
+| [Imāgo](https://tranquil-reef-45735.herokuapp.com)  | A photo sharing app based on the popular Instagram, built over the course of a weekned. Solo RoR project | Ruby, Rails, Bulma.io, RSpec, Capybara |  
+| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |  
+| [The Chitter](https://github.com/y0m0/chitter-challenge) | A micro messaging app that allows user to share their posts, available on Heroku [here](https://the-chitter.herokuapp.com/) | Ruby, Sinatra, Bootstrap, PostgreSQL, DataMapper, bcrypt, RSpec, Capybara |  
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 **Makers Academy** *May 2017 - July 2017*  
 - Independent learner and problem-solver
-- OOP, TDD, Agile, MVC, BDD, Pair Programming
+- OOP, TDD, Agile, MVC, BDD, XP values
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Python
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js, Express, Python
+- RSpec, Jasmine, Mocha, Zombie
 
 **Edx - CS50** *February 2016*  
 C++, Python, SQL, built a working breakout game with SPL
@@ -72,16 +63,16 @@ PHP, HTML, CSS, JavaScript
 **Quality Control, Optimal Print** *Oslo, February 2012 - May 2012*
 
 **System Administrator, Web Runner** *Turin, December 2010 - August 2011*  
-Sys Admin and Instructor for open source based internet point,  
-aiming to give access to technology for citizens that can't afford it
+Sys-Admin and Instructor for an open source based internet point,  
+aiming to give access to technology to citizens that can't afford it
 
 **On site IT Technician, One Click** *Turin, 2007 - 2011*   
 On site support for several international companies like HP Italy, ENI, Wincor Nixdorf, etc.  
 Hardware & software support and repair  
-Installation, configuration and maintenance of networking solutions (cisco, juniper)
+Installation, configuration and maintenance of networking solutions
 
 **Co-Founder, Infratronic** *Turin, 2010*  
-Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
+Hardware refurbishing E-Commerce in collaboration with the city E-waste recycling site
 
 **Rigger / Scaffolder, Show Building** *Europe, 2004 - 2007*
 

@@ -1,6 +1,6 @@
 ## Daniele Lixi
 
-[About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#)
+[About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | ![linkedin](https://raw.githubusercontent.com/y0m0/CV/master/assets/linkedin.png)
 
 Former IT Manager for a Norwegian based firm, I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and now looking for a Full Stack Developer role.
 
@@ -71,8 +71,8 @@ On site support for several international companies like HP Italy, ENI, Wincor N
 Hardware & software support and repair  
 Installation, configuration and maintenance of networking solutions
 
-**Co-Founder, Infratronic** *Turin, 2010*  
-Hardware refurbishing E-Commerce in collaboration with the city E-waste recycling site
+**Co-Founder, OneClick** *Turin, 2010*  
+Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
 
 **Rigger / Scaffolder, Show Building** *Europe, 2004 - 2007*
 

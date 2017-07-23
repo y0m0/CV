@@ -1,6 +1,6 @@
 ## Daniele Lixi
 
-[About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | ![linkedin](https://raw.githubusercontent.com/y0m0/CV/master/assets/linkedin.png)
+[About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
 Former IT Manager for a Norwegian based firm, I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and now looking for a Full Stack Developer role.
 
@@ -81,3 +81,14 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
  **Skateboarding**: plenty of scars to prove it  
  **Martial Arts**: moved from JKD to KungFu, now practicing Jiu-Jitsu (no, not the Brazilian one)  
  **Network Security**: still trying to push trough the De-ICE challenges..  
+
+## Links
+
+<p align="center">
+<a href="https://twitter.com/YoMoZ">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/daniele-lixi-04190310a">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>

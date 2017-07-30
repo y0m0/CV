@@ -2,21 +2,22 @@
 
 [About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
-Former IT Manager for a Norwegian based firm, I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy" and now looking for a Full Stack Developer role.
+
+Full Stack Developer with 10 years experience in the IT field. I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy". I am now looking for a position where I can make a difference using my wide skillset while keep growing, and become a better developer than I was yesterday.
 
 ## About
 When describing my self I like to use the latin word "Omnia" which translates to "everything".
 I am that guy that you know you can contact if you need anything fixed or built.
 
 My insatiable curiosity to know how things work coupled with fast learning skills always led me to embark in new and exciting challenges.
-Starting an hardware recycling company, becoming an on-site hardware Tech responsible for several international companies, studying aircraft engineering, and building stages for concerts around Europe.
+While starting an hardware recycling company, becoming an on-site hardware Tech responsible for several international companies, studying aircraft engineering, and building stages for concerts around Europe.
 My motto was always "if a human being did that, I can do it too".
 
-And then, 2 years ago, with no previous coding experience I taught myself Python in a couple of months and build an integration module between my current company logistic software and a 3rd party sales portal. This got me hooked on coding.
+And then, 2 years ago, with no previous coding experience I taught myself Python in a couple of months and built an integration module between my company's current logistic software and a 3rd party sales portal. This got me hooked on coding.
 
 I continued my journey by completing several MOOC in computer science, and finally decided to put my "everything" into becoming a Full Stack Developer.
-## Projects
 
+## Projects
 For a complete list, see my [GitHub](https://github.com/y0m0?tab=repositories).
 
 | Project           | Description | Technologies |
@@ -33,7 +34,7 @@ For a complete list, see my [GitHub](https://github.com/y0m0?tab=repositories).
 - OOP, TDD, Agile, MVC, BDD, XP values
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js, Express, Python
-- RSpec, Jasmine, Mocha, Zombie
+- RSpec, Jasmine, Mocha, Zombie,
 
 **Edx - CS50** *February 2016*  
 C++, Python, SQL, built a working breakout game with SPL
@@ -77,10 +78,10 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
 **Rigger / Scaffolder, Show Building** *Europe, 2004 - 2007*
 
 ## Interests
- **Building, Fixing, and breaking things**: i love getting my hand dirty on literally anything that can be taken apart  
+ **Building, Fixing, and breaking things**: I love getting my hand dirty on literally anything that can be taken apart,
  **Skateboarding**: plenty of scars to prove it  
  **Martial Arts**: moved from JKD to KungFu, now practicing Jiu-Jitsu (no, not the Brazilian one)  
- **Network Security**: still trying to push trough the De-ICE challenges..  
+ **Network Security**: still trying to push through the De-ICE challenges..  
 
 ## Links
 
@@ -90,5 +91,4 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
 
 <a href="https://www.linkedin.com/in/daniele-lixi-04190310a">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
 </p>

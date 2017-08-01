@@ -3,7 +3,7 @@
 [About](#about) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
 
-Full Stack Developer with 10 years experience in the IT field. I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy". I am now looking for a position where I can make a difference using my wide skillset while keep growing, and become a better developer than I was yesterday.
+Full Stack Junior Developer with 10 years experience in the IT field. I moved to London to attend Europe's leading Web Developer bootcamp "Makers Academy". I am now looking for a position where I can make a difference using my wide skillset while keep growing, and become a better developer than I was yesterday.
 
 ## About
 When describing my self I like to use the latin word "Omnia" which translates to "everything".
@@ -22,7 +22,8 @@ For a complete list, see my [GitHub](https://github.com/y0m0?tab=repositories).
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| [Imāgo](https://tranquil-reef-45735.herokuapp.com)  | A photo sharing app based on the popular Instagram, built over the course of a weekned. Solo RoR project | Ruby, Rails, Bulma.io, RSpec, Capybara |  
+| [Ductu](https://ductu.herokuapp.com/) | A mentorship platform that aims to close the gap between Mentors and Mentess, by giving them an easy way to connect, and effectivly share content and feedbacks.| Express, Node.js, ES6, MongoDB, Pug, PassportJS,Mocha, Chai, Zombie |
+| [Imāgo](https://production-imago.herokuapp.com) | A photo sharing app based on the popular Instagram, built over the course of a weekned. Solo RoR project | Ruby, Rails, Bulma.io, RSpec, Capybara |  
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |  
 | [The Chitter](https://github.com/y0m0/chitter-challenge) | A micro messaging app that allows user to share their posts, available on Heroku [here](https://the-chitter.herokuapp.com/) | Ruby, Sinatra, Bootstrap, PostgreSQL, DataMapper, bcrypt, RSpec, Capybara |  
 

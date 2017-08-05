@@ -73,7 +73,7 @@ On site support for several international companies like HP Italy, ENI, Wincor N
 Hardware & software support and repair  
 Installation, configuration and maintenance of networking solutions
 
-**Co-Founder, OneClick** *Turin, 2010*  
+**Co-Founder, OneClick** *Turin, 2007*  
 Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
 
 **Rigger / Scaffolder, Show Building** *Europe, 2004 - 2007*

@@ -79,7 +79,7 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
 **Rigger / Scaffolder, Show Building** *Europe, 2004 - 2007*
 
 ## Interests
- **Building, Fixing, and breaking things**: I love getting my hand dirty on literally anything that can be taken apart,
+ **Building, Fixing, and breaking things**: I love getting my hand dirty on literally anything that can be taken apart  
  **Skateboarding**: plenty of scars to prove it  
  **Martial Arts**: moved from JKD to KungFu, now practicing Jiu-Jitsu (no, not the Brazilian one)  
  **Network Security**: still trying to push through the De-ICE challenges..  
@@ -88,8 +88,8 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
 
 <p align="center">
 <a href="https://twitter.com/YoMoZ">
-<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<img src="http://icon-icons.com/icons2/642/PNG/512/twitter_2_icon-icons.com_59206.png" alt="twitter" hspace="50" height="48" width="48"></a>
 
 <a href="https://www.linkedin.com/in/daniele-lixi-04190310a">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="http://icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" alt="linkedin" hspace="50" height="48" width="48"></a>
 </p>

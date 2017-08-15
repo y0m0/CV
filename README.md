@@ -20,12 +20,12 @@ I continued my journey by completing several MOOC in computer science, and final
 ## Projects
 For a complete list, see my [GitHub](https://github.com/y0m0?tab=repositories).
 
-| Project           | Description | Technologies |
-|---                |---          |---           |
-| [Ductu](https://ductu.herokuapp.com/) | A mentorship platform that aims to close the gap between Mentors and Mentess, by giving them an easy way to connect, and effectivly share content and feedbacks.| Express, Node.js, ES6, MongoDB, Pug, PassportJS,Mocha, Chai, Zombie |
-| [Imāgo](https://production-imago.herokuapp.com) | A photo sharing app based on the popular Instagram, built over the course of a weekned. Solo RoR project | Ruby, Rails, Bulma.io, RSpec, Capybara |  
-| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |  
-| [The Chitter](https://github.com/y0m0/chitter-challenge) | A micro messaging app that allows user to share their posts, available on Heroku [here](https://the-chitter.herokuapp.com/) | Ruby, Sinatra, Bootstrap, PostgreSQL, DataMapper, bcrypt, RSpec, Capybara |  
+|                 Project                  |               Description                |               Technologies               |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+|  [Ductu](https://ductu.herokuapp.com/)   | A mentorship platform that aims to close the gap between Mentors and Mentees, by giving them an easy way to connect, and effectivly share content and feedbacks. | Express, Node.js, ES6, MongoDB, Pug, PassportJS,Mocha, Chai, Zombie |
+| [Imāgo](https://production-imago.herokuapp.com) | A photo sharing app based on the popular Instagram, built over the course of a weekned. Solo RoR project |  Ruby, Rails, Bulma.io, RSpec, Capybara  |
+| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. |   Python, SciKit, Numpy, Pandas, Flask   |
+| [The Chitter](https://github.com/y0m0/chitter-challenge) | A micro messaging app that allows user to share their posts, available on Heroku [here](https://the-chitter.herokuapp.com/) | Ruby, Sinatra, Bootstrap, PostgreSQL, DataMapper, bcrypt, RSpec, Capybara |
 
 
 ## Education
@@ -52,13 +52,14 @@ Construction and maintenance of aircrafts, CAD design, Mechanics
 ## Experience
 
 **IT Manager, Villa Import** *Oslo, October 2013 - April 2017*  
+Administration and maintenance of the company's infrastructure  
+Logistics & Hazard Analysis Critical Control Point system supervision  
 ERP & CRM system manager  
-Logistics & HACCP system supervision  
-Network and Devices management  
 Customer relations and sales
 
 **Web Developer,** [**Treasure Toscana**](http://www.treasuretoscana.com/) *Oslo, March 2015 - September 2015*  
-PHP, HTML, CSS, JavaScript
+Designed, implemented, and deployed the company platform with a wide  
+set of technologies like AWS, PHP, HTML, CSS, and JavaScript.  
 
 **Barista, Dolce Vita** *Oslo, April 2012 - September 2013*
 
@@ -68,10 +69,10 @@ PHP, HTML, CSS, JavaScript
 Sys-Admin and Instructor for an open source based internet point,  
 aiming to give access to technology to citizens that can't afford it
 
-**On site IT Technician, One Click** *Turin, 2007 - 2011*   
+**Regional IT Field Techinician, One Click** *Turin, 2007 - 2011*   
 On site support for several international companies like HP Italy, ENI, Wincor Nixdorf, etc.  
-Hardware & software support and repair  
-Installation, configuration and maintenance of networking solutions
+Hardware & software troubleshooting and repair across a wide variety of devices  
+Installation, configuration and maintenance of networking solutions  
 
 **Co-Founder, OneClick** *Turin, 2007*  
 Hardware refurbishing E-Commerce in collaboration with the city electronic waste recycling sites
@@ -86,10 +87,8 @@ Hardware refurbishing E-Commerce in collaboration with the city electronic waste
 
 ## Links
 
-<p align="center">
 <a href="https://twitter.com/YoMoZ">
-<img src="http://icon-icons.com/icons2/642/PNG/512/twitter_2_icon-icons.com_59206.png" alt="twitter" hspace="50" height="48" width="48"></a>
+<img src="http://icon-icons.com/icons2/642/PNG/512/twitter_2_icon-icons.com_59206.png" alt="twitter" height="48" width="48"></a>
 
 <a href="https://www.linkedin.com/in/daniele-lixi-04190310a">
 <img src="http://icon-icons.com/icons2/808/PNG/512/linkedin_icon-icons.com_66096.png" alt="linkedin" hspace="50" height="48" width="48"></a>
-</p>

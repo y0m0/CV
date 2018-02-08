@@ -50,6 +50,15 @@ Administration of devices on small or medium-sized networks, networking protocol
 Construction and maintenance of aircrafts, CAD design, Mechanics
 
 ## Experience
+**Software Engineer, BBC** *London, September 2017 - January 2018*  
+Design and build of BBC own microservices architecture  
+Work across disciplines to build strong and scalable products for BBC News audiences  
+Build maintainable and well tested production code in Ruby, JavaScript and Go  
+Take part in the design of our cloud AWS infrastructure  
+Provide capabilities as-a-service for other team regarding Cloud computing and DevOps practices  
+Automate build and deployment processes by using Dockers and Jenkins pipelines  
+Investigate emerging web technologies  
+Implement and configure development tools
 
 **IT Manager, Villa Import** *Oslo, October 2013 - April 2017*  
 Administration and maintenance of the company's infrastructure  
